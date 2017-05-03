@@ -13,7 +13,7 @@ To use it your code, import the thoughtful package like:
 ```javascript
 import * as tf from 'thoughtful'
 ```
-> **Please note that the library is currently in a beta status! This library is build mainly for learning purposes.**
+> **Please note that the library is currently in a beta status! This library is built mainly for learning purposes.**
 
 # Overview
 
