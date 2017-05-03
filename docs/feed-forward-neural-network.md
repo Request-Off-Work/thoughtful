@@ -65,7 +65,7 @@ for(let i = 0; i < 1000; i++){
 }
 ```
 
-To predict outputs for new inputs, use the method `ann.predict(input: number[])`
+To predict outputs for new inputs, use the method `ann.predict([1,0]))`
 
 ```javascript
 // Get network's prediction for training XOR data
